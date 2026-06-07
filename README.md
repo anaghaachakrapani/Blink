@@ -22,7 +22,7 @@ Built because my ophthalmologist told me to blink more.
 
 ### Option A — Download the pre-built app (easiest)
 
-1. Go to the [**Releases**](https://github.com/YOUR_USERNAME/Blink/releases) page
+1. Go to the [**Releases**](https://github.com/anaghaachakrapani/Blink/releases) page
 2. Download `Blink.app.zip` from the latest release
 3. Unzip and drag `Blink.app` into your **Applications** folder
 4. **First launch:** because Blink isn't notarised by Apple (cost reasons), macOS will show a warning. To fix:

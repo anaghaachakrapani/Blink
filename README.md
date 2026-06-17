@@ -8,7 +8,7 @@ Built because my ophthalmologist told me to blink more.
 
 ## ✨ Features
 
-- 🕐 Reminds you to take a **20-second blinking break
+- 🕐 Reminds you to take a **20-second blinking break**
 - 🐈 Cute animated cat character watches you blink
 - 🔥 Tracks your daily streak with fire icons (resets at midnight)
 - ⏰ 10-second pre-warning countdown in the menu bar before each break
